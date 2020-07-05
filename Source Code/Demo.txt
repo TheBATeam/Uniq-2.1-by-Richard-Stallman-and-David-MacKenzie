@@ -1,0 +1,10 @@
+This is suppossed to find
+all the unique lines in a text file
+all the unique lines in a text file
+all the unique lines in a text file
+But, I repeated all of them thrice.
+yes,
+yes,
+thrice.
+
+Let's see what is the output Now!
